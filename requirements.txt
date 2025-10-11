@@ -1,0 +1,6 @@
+ultralytics
+roboflow
+python-dotenv
+numpy
+onnx2tf
+tensorflow
